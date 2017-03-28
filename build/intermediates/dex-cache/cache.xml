@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_f9f6d543705da1979607edbc6ba82e334579f0e1.jar" />
+    </item>
+    <item
+        jar="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_49c61d7258aa736a02fa5a06dde52862790c7f4b.jar" />
+    </item>
+    <item
+        jar="E:\01DevelopmentTools\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_4388ebb8012780cfda05e3ce6d7bd98bbd215f56.jar" />
+    </item>
+    <item
+        jar="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_cd929a5e2a0dfb18f5e239810398a364ec4cde97.jar" />
+    </item>
+    <item
+        jar="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_3b570f81d351c3c002ff7de7554f9c55baa9e0dd.jar" />
+    </item>
+    <item
+        jar="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\04Demo\AndroidFingerPrintDemo-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_c2fad04bb08d49f679c5c6f5fc184d5069c74e64.jar" />
+    </item>
+
+</items>
